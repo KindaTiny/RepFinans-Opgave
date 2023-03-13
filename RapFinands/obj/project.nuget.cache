@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fHacUTwRtBu3XvTUF5aEpXjQ/uDLh7jkM36HXwvA+Y+TwvyWHyL47mldDt8tAEwDVoaH7cPJmPoy6LQN21JFMQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lukas\\Desktop\\RapFinands\\RapFinands.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lukas\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
